@@ -681,6 +681,8 @@ def super():
         print 42*"="
 
 	jalan( "\x1b[1;32;92m[1] \033[1;33;98m>> Crack From Public ID") 
+	
+	jalan( "\x1b[1;32;92m[1] \033[1;33;98m>> Crack From friendlist") 
 
 	jalan( "\x1b[1;32;36m[0] \033[1;33;96m>> Back") 
 
