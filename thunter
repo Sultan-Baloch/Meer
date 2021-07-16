@@ -1,35 +1,5 @@
 #!/bin/bash
 #banner
 
-printf '<\>
-   <\>
-      <\>
-         <\>
-            <\>
-               <\>
-                 <\>
-                   <<>>
-                 </>
-               </>
-            </>
-         </>
-      </>                 I am Not a Big Man Allahmdullah
-   </>
-</>                  >>>>>>>>>>>>>>>>>>>>>>>>>>>'|lolcat -a -s 99 -d 30
-echo '                          WELCOME TO TERMUX'|lolcat -a -s 99 -d 300
-
-clear
-
-printf '\e[032m▉▉▉▉▉
-   ▉▉▉▉▉
-      ▉▉▉▉▉
-         ▉▉▉▉▉
-            ▉▉▉▉▉
-               ▉▉▉▉
-                ▉▉▉▉▉▶
-               ▉▉▉▉
-            ▉▉▉▉▉
-         ▉▉▉▉▉
-      ▉▉▉▉▉              Meer Sultan Baloch
-   ▉▉▉▉▉
-▉▉▉▉▉                ▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉\n\n'
+printf'Proud to be a Muslim
+▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉
